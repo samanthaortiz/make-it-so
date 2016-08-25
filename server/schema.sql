@@ -1,11 +1,7 @@
 -- This is Sam's
 
--- ---
--- Globals
--- ---
-
--- SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
--- SET FOREIGN_KEY_CHECKS=0;
+CREATE DATABASE chat;
+USE chat;
 
 -- ---
 -- Table 'Project'
