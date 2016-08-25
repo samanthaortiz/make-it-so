@@ -1,5 +1,8 @@
 // This is Sam's
 var models = require('../models');
+var db = require('/db/index.js');
+
+
 
 module.exports = {
 
