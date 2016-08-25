@@ -18,6 +18,7 @@
   "homepage": "https://github.com/alexwade13/make-it-so#readme",
   "dependencies": {
     "bookshelf": "^0.10.0",
-    "knex": "^0.11.10"
+    "knex": "^0.11.10",
+    "path": "^0.12.7"
   }
 }
