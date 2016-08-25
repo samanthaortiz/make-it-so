@@ -3,6 +3,9 @@
 # dependencies
 node_modules
 
+# database
+db.config
+
 # production
 build
 
