@@ -76,3 +76,5 @@ db.knex.schema.hasTable('Project-Keywords').then(function(exists){
     });  
   }
 });
+
+module.exports = db;
